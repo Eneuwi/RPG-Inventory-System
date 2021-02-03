@@ -1,0 +1,4 @@
+﻿  Character.cpp
+C:\Users\Student\source\repos\Assignment 6\Inventory.h(30,29): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Student\source\repos\Assignment 6\Character.cpp(90): warning C4715: 'Character::getEquippedArmor': not all control paths return a value
+  RPGInventory.vcxproj -> C:\Users\Student\source\repos\Assignment 6\x64\Debug\RPGInventory.exe
